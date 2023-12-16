@@ -1,5 +1,5 @@
 {
-  "homepage": "https://muzy4ykV.github.io/Front-End-labs",
+  "homepage": "http://muzy4ukV.github.io/react-app",
   "name": "lab7",
   "version": "0.1.0",
   "private": true,
@@ -13,8 +13,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
+    "start": "react-scripts --openssl-legacy-provider start",
+    "build": "react-scripts --openssl-legacy-provider build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
